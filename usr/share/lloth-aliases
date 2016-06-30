@@ -1,0 +1,5 @@
+#! /bin/sh
+
+tprobe(){
+	tshark -i mon0 -a duration:10 -Y "wlan.fc.type_subtype eq 4 or wlan.fc.type_subtype eq 5" | grep -io '[A-Z].*_[0-9A-F]\{2\}\(:[0-9A-F]\{2\}\)\{2\}'
+}

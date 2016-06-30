@@ -1,0 +1,11 @@
+^[[A  4   0.252578 AmpakTec_73:93:d8 -> Broadcast    802.11 156 Probe Request, SN=1, FN=0, Flags=........C, SSID=Broadcast
+  5   0.293101 AmpakTec_73:93:d8 -> Broadcast    802.11 156 Probe Request, SN=2, FN=0, Flags=........C, SSID=Broadcast
+  6   0.296755 Netgear_9b:31:30 -> AmpakTec_73:93:d8 802.11 445 Probe Response, SN=673, FN=0, Flags=........C, BI=100, SSID=NETGEAR39
+  9   0.338771 AmpakTec_73:93:d8 -> Broadcast    802.11 156 Probe Request, SN=3, FN=0, Flags=........C, SSID=Broadcast
+ 10   0.342381 Netgear_9b:31:30 -> AmpakTec_73:93:d8 802.11 445 Probe Response, SN=675, FN=0, Flags=........C, BI=100, SSID=NETGEAR39
+ 11   0.345948 Netgear_9b:31:30 -> AmpakTec_73:93:d8 802.11 445 Probe Response, SN=675, FN=0, Flags=....R...C, BI=100, SSID=NETGEAR39
+ 13   0.379116 AmpakTec_73:93:d8 -> Broadcast    802.11 156 Probe Request, SN=4, FN=0, Flags=........C, SSID=Broadcast
+ 14   0.382736 Netgear_9b:31:30 -> AmpakTec_73:93:d8 802.11 445 Probe Response, SN=676, FN=0, Flags=........C, BI=100, SSID=NETGEAR39
+ 17   0.423976 AmpakTec_73:93:d8 -> Broadcast    802.11 156 Probe Request, SN=5, FN=0, Flags=........C, SSID=Broadcast
+ 18   0.464541 AmpakTec_73:93:d8 -> Broadcast    802.11 156 Probe Request, SN=6, FN=0, Flags=........C, SSID=Broadcast
+
